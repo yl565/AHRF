@@ -6,5 +6,5 @@ This is a small demo project for preprocessing and visualizing AHRF data
 
 1. Download AHRF data at http://ahrf.hrsa.gov/
 2. Put 'AHRF 2016-2017 Technical Documentation.xlsx' and 'ahrf2017.asc' in the same folder as AHRF_demo.ipynb
-3. install dependency plotly: conda install plotly
+3. Install dependency plotly: conda install plotly
 4. Run the notebook
